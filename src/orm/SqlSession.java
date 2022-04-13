@@ -84,7 +84,6 @@ public class SqlSession {
     }
 
 
-
 //    这个方法用来解析sql
     private SqlAndColumn parseSql(String sql){
         StringBuilder stringBuilder = new StringBuilder();
